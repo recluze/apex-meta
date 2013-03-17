@@ -1,0 +1,10 @@
+<Policies>
+      <Policy Effect="Deny">
+        <Permission Name="android.permission.ACCESS_FINE_LOCATION" />
+        <Constraint CombiningAlgorithm="org.csrdu.apex.combiningalgorithms.All">
+          <Expression FunctionId="org.csrdu.apex.functions.StringToBoolean">
+            <Constant Value='true' />
+          </Expression>
+        </Constraint>
+      </Policy>
+</Policies>

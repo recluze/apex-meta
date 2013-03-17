@@ -2,9 +2,16 @@
       <Policy Effect="Deny">
         <Permission Name="android.permission.ACCESS_FINE_LOCATION" />
         <Constraint CombiningAlgorithm="org.csrdu.apex.combiningalgorithms.All">
-          <Expression FunctionId="org.csrdu.apex.functions.StringToBoolean">
-            <Constant Value='true' />
+          <Expression FunctionId="org.csrdu.apex.functions.NumberGreaterThan">
+            <ApplicationAttribute AttributeName='gps_used' Default='0' />
+            <Constant Value='5' />
           </Expression>
         </Constraint>
+        <PostAction ActionId='org.csrdu.apex.postactions.AttributeUpdate' TargetAttribute='gps_used'>
+          <Expression FunctionId='org.csrdu.apex.functions.NumberAdd'>
+            <ApplicationAttribute AttributeName='gps_used' Default='0' />
+            <Constant Value='1' />
+          </Expression> 
+        </PostAction>
       </Policy>
 </Policies>
