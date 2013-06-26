@@ -3,7 +3,7 @@
 LOG_DIR=~/mydroid.meta/ 
 CPUINFO_FILE=dumpsys-cpuinfo 
 MEMINFO_FILE=dumpsys-meminfo 
-LOG_FILE=dumpsys-combined
+LOG_FILE=dumpsys-combined-$1
 
 # Delay in seconds 
 DELAY_BETWEEN_MEASURES=10
