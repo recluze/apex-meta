@@ -1,0 +1,3259 @@
+========================  NEW ENTRY ===================== 
+Time of measurement: 0
+---- CPU INFO -----
+---- MEM INFO -----
+---- BATTERY INFO -----
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 10
+---- CPU INFO -----
+---- MEM INFO -----
+---- BATTERY INFO -----
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 20
+---- CPU INFO -----
+---- MEM INFO -----
+---- BATTERY INFO -----
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 31
+---- CPU INFO -----
+Load: 0.34 / 0.08 / 0.02
+CPU usage from 10112ms to 5901ms ago:
+  93% 62/system_server: 64% user + 29% kernel / faults: 4129 minor 138 major
+  2.2% 73/bootanimation: 2.2% user + 0% kernel
+  1.2% 36/installd: 0% user + 1.2% kernel / faults: 11 minor
+98% TOTAL: 66% user + 31% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 32243 Realtime: 32243
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     4504     6855      N/A    11359
+       allocated:     4207     4214      N/A     8421
+            free:      228     2641      N/A     2869
+           (Pss):     2092     3776     9029    14897
+  (shared dirty):     1368     1852     5484     8704
+    (priv dirty):     1920      624     5032     7576
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        1       Activities:        0
+          Assets:        3    AssetManagers:        3
+   Local Binders:       45    Proxy Binders:       30
+Death Recipients:       11
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 45
+---- CPU INFO -----
+Load: 2.97 / 0.66 / 0.22
+CPU usage from 9208ms to 3856ms ago:
+  25% 62/system_server: 18% user + 7.5% kernel / faults: 1948 minor 7 major
+  15% 167/android.process.acore: 11% user + 3.9% kernel / faults: 2444 minor 4 major
+  14% 114/com.android.phone: 8.3% user + 6.4% kernel / faults: 1636 minor 2 major
+  12% 118/com.android.systemui: 5.8% user + 6.8% kernel / faults: 2119 minor 5 major
+  11% 121/com.android.launcher: 8.9% user + 3% kernel / faults: 1619 minor 1 major
+  5.8% 111/com.android.inputmethod.latin: 0.7% user + 5% kernel / faults: 892 minor
+  3.7% 161/com.android.settings: 2.4% user + 1.3% kernel / faults: 1470 minor 7 major
+  0.1% 32/rild: 0% user + 0.1% kernel / faults: 81 minor
+  0.1% 29/vold: 0% user + 0.1% kernel / faults: 54 minor 1 major
+  0.1% 1//init: 0% user + 0.1% kernel / faults: 5 minor
+  0.1% 13/kswapd0: 0% user + 0.1% kernel
+  0.1% 28/servicemanager: 0% user + 0.1% kernel / faults: 6 minor
+  0.1% 33/zygote: 0.1% user + 0% kernel / faults: 239 minor
+  0% 39/qemud: 0% user + 0% kernel / faults: 16 minor
+ +0% 203/zygote: 0% user + 0% kernel
+ +0% 209/fsck_msdos: 0% user + 0% kernel
+100% TOTAL: 58% user + 41% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 47070 Realtime: 47070
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     7623      N/A    13867
+       allocated:     5088     4343      N/A     9431
+            free:       59     3280      N/A     3339
+           (Pss):     1997     3296    11175    16468
+  (shared dirty):     1364     1852     4940     8156
+    (priv dirty):     1872      664     7440     9976
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        1       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       55    Proxy Binders:       71
+Death Recipients:       26
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 58
+---- CPU INFO -----
+Load: 5.04 / 1.19 / 0.39
+CPU usage from 11967ms to 6116ms ago:
+  20% 62/system_server: 13% user + 6.3% kernel / faults: 1707 minor 5 major
+  11% 121/com.android.launcher: 8.1% user + 3.7% kernel / faults: 1710 minor 10 major
+  9.4% 232/android.process.media: 5.2% user + 4.1% kernel / faults: 1635 minor 7 major
+  5.6% 114/com.android.phone: 2.2% user + 3.4% kernel / faults: 727 minor
+  5.8% 224/com.android.mms: 3.5% user + 2.3% kernel / faults: 1169 minor 10 major
+  2.5% 167/android.process.acore: 1.8% user + 0.6% kernel / faults: 414 minor
+  2% 203/zygote: 0% user + 2% kernel / faults: 46 minor
+  1.3% 26/mmcqd: 0% user + 1.3% kernel
+  0.8% 111/com.android.inputmethod.latin: 0.5% user + 0.3% kernel / faults: 79 minor
+  0.8% 209/fsck_msdos: 0% user + 0.8% kernel / faults: 912 minor
+  0.5% 33/zygote: 0.1% user + 0.3% kernel / faults: 197 minor
+  0.5% 42/adbd: 0.1% user + 0.3% kernel / faults: 14 minor
+  0.3% 13/kswapd0: 0% user + 0.3% kernel
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 239 minor
+ +0% 263/com.android.email: 0% user + 0% kernel
+ +0% 275/com.android.bluetooth: 0% user + 0% kernel
+ +0% 284/zygote: 0% user + 0% kernel
+100% TOTAL: 53% user + 45% kernel + 0.1% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 58553 Realtime: 58553
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     7623      N/A    13867
+       allocated:     4933     4696      N/A     9629
+            free:      138     2927      N/A     3065
+           (Pss):     2070     2223     8104    12397
+  (shared dirty):     1364     1852     4932     8148
+    (priv dirty):     1916      668     6784     9368
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        1       Activities:        0
+          Assets:        5    AssetManagers:        5
+   Local Binders:       56    Proxy Binders:      113
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 69
+---- CPU INFO -----
+Load: 6.14 / 1.56 / 0.52
+CPU usage from 17191ms to 6280ms ago:
+  7.3% 31/debuggerd: 0.6% user + 6.6% kernel / faults: 85 minor 1 major
+  16% 62/system_server: 8.6% user + 8% kernel / faults: 2489 minor 55 major
+  7.9% 209/fsck_msdos: 3.5% user + 4.4% kernel / faults: 6481 minor
+  7.5% 121/com.android.launcher: 3% user + 4.4% kernel / faults: 2432 minor 60 major
+  1.2% 111/com.android.inputmethod.latin: 0.6% user + 0.6% kernel / faults: 979 minor 3 major
+  1.1% 26/mmcqd: 0% user + 1.1% kernel
+  0.8% 114/com.android.phone: 0.3% user + 0.4% kernel / faults: 801 minor 70 major
+  0.7% 118/com.android.systemui: 0.4% user + 0.2% kernel / faults: 980 minor 3 major
+  0.6% 33/zygote: 0.1% user + 0.4% kernel / faults: 210 minor 2 major
+  0.6% 42/adbd: 0% user + 0.5% kernel / faults: 36 minor
+  0% 4/events/0: 0% user + 0% kernel
+  0% 28/servicemanager: 0% user + 0% kernel / faults: 7 minor
+ +0% 334/zygote: 0% user + 0% kernel
+100% TOTAL: 31% user + 68% kernel + 0.1% irq + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 69836 Realtime: 69836
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4840     4752      N/A     9592
+            free:      291     3575      N/A     3866
+           (Pss):     2165     1963     8609    12737
+  (shared dirty):     1364     1852     4924     8140
+    (priv dirty):     1968      668     7508    10144
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        1       Activities:        0
+          Assets:        5    AssetManagers:        5
+   Local Binders:       54    Proxy Binders:       60
+Death Recipients:       19
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 82
+---- CPU INFO -----
+Load: 6.65 / 1.97 / 0.68
+CPU usage from 6615ms to 603ms ago:
+  20% 62/system_server: 11% user + 9.1% kernel / faults: 2363 minor 121 major
+  18% 360/android.process.acore: 12% user + 6.3% kernel / faults: 3145 minor 109 major
+  8.8% 121/com.android.launcher: 6% user + 2.8% kernel / faults: 1324 minor 44 major
+  7.5% 344/com.android.phone: 3.3% user + 4.1% kernel / faults: 1759 minor 71 major
+  4.8% 118/com.android.systemui: 2.6% user + 2.1% kernel / faults: 1985 minor 12 major
+  0.6% 33/zygote: 0% user + 0.6% kernel / faults: 250 minor 2 major
+  0.1% 26/mmcqd: 0% user + 0.1% kernel
+  0% 29/vold: 0% user + 0% kernel / faults: 60 minor 3 major
+  0% 1//init: 0% user + 0% kernel / faults: 6 minor
+  0.1% 4/events/0: 0% user + 0.1% kernel
+  0% 28/servicemanager: 0% user + 0% kernel / faults: 49 minor 3 major
+  0% 39/qemud: 0% user + 0% kernel / faults: 46 minor 4 major
+  0% 42/adbd: 0% user + 0% kernel / faults: 12 minor
+ +0% 386/android.process.media: 0% user + 0% kernel
+ +0% 398/com.cooliris.media: 0% user + 0% kernel
+99% TOTAL: 54% user + 45% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 82713 Realtime: 82713
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4800     4746      N/A     9546
+            free:      243     3581      N/A     3824
+           (Pss):     2094     2434     8490    13018
+  (shared dirty):     1364     1852     4924     8140
+    (priv dirty):     1920      668     7264     9852
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       56    Proxy Binders:       78
+Death Recipients:       20
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 93
+---- CPU INFO -----
+Load: 6.11 / 1.94 / 0.67
+CPU usage from 11408ms to 5738ms ago:
+  13% 62/system_server: 5.6% user + 8.1% kernel / faults: 300 minor 5 major
+  6.2% 386/android.process.media: 1.9% user + 4.2% kernel / faults: 56 minor
+  4.9% 118/com.android.systemui: 1.5% user + 3.3% kernel / faults: 68 minor
+  4.2% 121/com.android.launcher: 0% user + 4.2% kernel / faults: 1 minor
+  3.7% 360/android.process.acore: 0% user + 3.7% kernel
+  3.5% 344/com.android.phone: 0.3% user + 3.1% kernel / faults: 1 minor
+  3.3% 398/com.cooliris.media: 2.1% user + 1.2% kernel / faults: 434 minor 5 major
+  0.7% 42/adbd: 0% user + 0.7% kernel / faults: 35 minor
+  0.3% 4/events/0: 0% user + 0.3% kernel
+  0.3% 28/servicemanager: 0% user + 0.3% kernel
+  0.1% 33/zygote: 0% user + 0.1% kernel / faults: 17 minor
+ +0% 416/com.android.providers.calendar: 0% user + 0% kernel
+55% TOTAL: 16% user + 38% kernel + 0.1% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 93506 Realtime: 93506
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4627     4433      N/A     9060
+            free:      364     3894      N/A     4258
+           (Pss):     1897     2467     8086    12450
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1744      668     6860     9272
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       57    Proxy Binders:       68
+Death Recipients:       21
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 104
+---- CPU INFO -----
+Load: 4.76 / 1.84 / 0.66
+CPU usage from 16282ms to 1962ms ago:
+  7.8% 62/system_server: 2.7% user + 5% kernel / faults: 576 minor 8 major
+  1.7% 398/com.cooliris.media: 0% user + 1.7% kernel / faults: 1 minor
+  0.4% 118/com.android.systemui: 0.1% user + 0.3% kernel / faults: 253 minor
+  0.4% 416/com.android.providers.calendar: 0.2% user + 0.2% kernel / faults: 162 minor 1 major
+  0.3% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+  0.1% 344/com.android.phone: 0% user + 0% kernel / faults: 85 minor 2 major
+12% TOTAL: 3.7% user + 8.4% kernel + 0.1% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 104037 Realtime: 104037
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4742     4738      N/A     9480
+            free:      249     3589      N/A     3838
+           (Pss):     1933     2532     8528    12993
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1780      668     6884     9332
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       57    Proxy Binders:       68
+Death Recipients:       21
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 114
+---- CPU INFO -----
+Load: 4.76 / 1.84 / 0.66
+CPU usage from 26773ms to 12453ms ago:
+  7.8% 62/system_server: 2.7% user + 5% kernel / faults: 576 minor 8 major
+  1.7% 398/com.cooliris.media: 0% user + 1.7% kernel / faults: 1 minor
+  0.4% 118/com.android.systemui: 0.1% user + 0.3% kernel / faults: 253 minor
+  0.4% 416/com.android.providers.calendar: 0.2% user + 0.2% kernel / faults: 162 minor 1 major
+  0.3% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+  0.1% 344/com.android.phone: 0% user + 0% kernel / faults: 85 minor 2 major
+12% TOTAL: 3.7% user + 8.4% kernel + 0.1% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 114522 Realtime: 114522
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4746     4900      N/A     9646
+            free:      245     3427      N/A     3672
+           (Pss):     1917     2443     8527    12887
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1780      668     6972     9420
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       59    Proxy Binders:       75
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 125
+---- CPU INFO -----
+Load: 4.76 / 1.84 / 0.66
+CPU usage from 37275ms to 22955ms ago:
+  7.8% 62/system_server: 2.7% user + 5% kernel / faults: 576 minor 8 major
+  1.7% 398/com.cooliris.media: 0% user + 1.7% kernel / faults: 1 minor
+  0.4% 118/com.android.systemui: 0.1% user + 0.3% kernel / faults: 253 minor
+  0.4% 416/com.android.providers.calendar: 0.2% user + 0.2% kernel / faults: 162 minor 1 major
+  0.3% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+  0.1% 344/com.android.phone: 0% user + 0% kernel / faults: 85 minor 2 major
+12% TOTAL: 3.7% user + 8.4% kernel + 0.1% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 125034 Realtime: 125034
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4751     5040      N/A     9791
+            free:      240     3287      N/A     3527
+           (Pss):     1917     2477     8639    13033
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1780      668     7084     9532
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       59    Proxy Binders:       76
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 135
+---- CPU INFO -----
+Load: 4.76 / 1.84 / 0.66
+CPU usage from 47915ms to 33595ms ago:
+  7.8% 62/system_server: 2.7% user + 5% kernel / faults: 576 minor 8 major
+  1.7% 398/com.cooliris.media: 0% user + 1.7% kernel / faults: 1 minor
+  0.4% 118/com.android.systemui: 0.1% user + 0.3% kernel / faults: 253 minor
+  0.4% 416/com.android.providers.calendar: 0.2% user + 0.2% kernel / faults: 162 minor 1 major
+  0.3% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+  0.1% 344/com.android.phone: 0% user + 0% kernel / faults: 85 minor 2 major
+12% TOTAL: 3.7% user + 8.4% kernel + 0.1% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 135682 Realtime: 135682
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4743     4450      N/A     9193
+            free:      248     3877      N/A     4125
+           (Pss):     1901     2477     8499    12877
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1764      668     6944     9376
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       59    Proxy Binders:       72
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 146
+---- CPU INFO -----
+Load: 4.76 / 1.84 / 0.66
+CPU usage from 58476ms to 44156ms ago:
+  7.8% 62/system_server: 2.7% user + 5% kernel / faults: 576 minor 8 major
+  1.7% 398/com.cooliris.media: 0% user + 1.7% kernel / faults: 1 minor
+  0.4% 118/com.android.systemui: 0.1% user + 0.3% kernel / faults: 253 minor
+  0.4% 416/com.android.providers.calendar: 0.2% user + 0.2% kernel / faults: 162 minor 1 major
+  0.3% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+  0.1% 344/com.android.phone: 0% user + 0% kernel / faults: 85 minor 2 major
+12% TOTAL: 3.7% user + 8.4% kernel + 0.1% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 146233 Realtime: 146233
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4745     4763      N/A     9508
+            free:      246     3564      N/A     3810
+           (Pss):     1925     2477     8535    12937
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1788      668     6980     9436
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       59    Proxy Binders:       72
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 157
+---- CPU INFO -----
+Load: 4.76 / 1.84 / 0.66
+CPU usage from 69015ms to 54695ms ago:
+  7.8% 62/system_server: 2.7% user + 5% kernel / faults: 576 minor 8 major
+  1.7% 398/com.cooliris.media: 0% user + 1.7% kernel / faults: 1 minor
+  0.4% 118/com.android.systemui: 0.1% user + 0.3% kernel / faults: 253 minor
+  0.4% 416/com.android.providers.calendar: 0.2% user + 0.2% kernel / faults: 162 minor 1 major
+  0.3% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+  0.1% 344/com.android.phone: 0% user + 0% kernel / faults: 85 minor 2 major
+12% TOTAL: 3.7% user + 8.4% kernel + 0.1% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 156774 Realtime: 156774
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4747     5073      N/A     9820
+            free:      244     3254      N/A     3498
+           (Pss):     1925     2477     8671    13073
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1788      668     7116     9572
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       59    Proxy Binders:       72
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 167
+---- CPU INFO -----
+Load: 1.79 / 1.52 / 0.62
+CPU usage from 65516ms to 5525ms ago:
+  4.6% 62/system_server: 2.9% user + 1.6% kernel / faults: 1103 minor 1 major
+  0.4% 42/adbd: 0% user + 0.4% kernel / faults: 216 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 47 minor
+  0.1% 360/android.process.acore: 0% user + 0% kernel / faults: 75 minor
+  0% 121/com.android.launcher: 0% user + 0% kernel / faults: 394 minor
+  0% 32/rild: 0% user + 0% kernel / faults: 75 minor 3 major
+  0% 28/servicemanager: 0% user + 0% kernel
+  0% 30/netd: 0% user + 0% kernel / faults: 61 minor 1 major
+  0% 33/zygote: 0% user + 0% kernel / faults: 17 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 27 minor
+ +0% 438/com.android.inputmethod.latin: 0% user + 0% kernel
+9.9% TOTAL: 5.1% user + 4.6% kernel + 0% iowait + 0% irq + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 167594 Realtime: 167594
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4779     4551      N/A     9330
+            free:      212     3776      N/A     3988
+           (Pss):     1917     2728     8094    12739
+  (shared dirty):     1348     1852     4916     8116
+    (priv dirty):     1780      672     5892     8344
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       60    Proxy Binders:       73
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 178
+---- CPU INFO -----
+Load: 1.79 / 1.52 / 0.62
+CPU usage from 76085ms to 16094ms ago:
+  4.6% 62/system_server: 2.9% user + 1.6% kernel / faults: 1103 minor 1 major
+  0.4% 42/adbd: 0% user + 0.4% kernel / faults: 216 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 47 minor
+  0.1% 360/android.process.acore: 0% user + 0% kernel / faults: 75 minor
+  0% 121/com.android.launcher: 0% user + 0% kernel / faults: 394 minor
+  0% 32/rild: 0% user + 0% kernel / faults: 75 minor 3 major
+  0% 28/servicemanager: 0% user + 0% kernel
+  0% 30/netd: 0% user + 0% kernel / faults: 61 minor 1 major
+  0% 33/zygote: 0% user + 0% kernel / faults: 17 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 27 minor
+ +0% 438/com.android.inputmethod.latin: 0% user + 0% kernel
+9.9% TOTAL: 5.1% user + 4.6% kernel + 0% iowait + 0% irq + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 178173 Realtime: 178174
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4785     4852      N/A     9637
+            free:      206     3475      N/A     3681
+           (Pss):     1941     2721     8127    12789
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1804      672     5912     8388
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        2    AssetManagers:        2
+   Local Binders:       60    Proxy Binders:       73
+Death Recipients:       25
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 188
+---- CPU INFO -----
+Load: 1.39 / 1.45 / 0.62
+CPU usage from 26680ms to 2941ms ago:
+  12% 62/system_server: 8.6% user + 4.3% kernel / faults: 2048 minor 4 major
+  4.8% 121/com.android.launcher: 3.2% user + 1.6% kernel / faults: 2035 minor 3 major
+  0.3% 42/adbd: 0% user + 0.2% kernel / faults: 72 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 201 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 115 minor 4 major
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 136 minor
+  0% 4/events/0: 0% user + 0% kernel
+  0% 12/pdflush: 0% user + 0% kernel
+  0% 13/kswapd0: 0% user + 0% kernel
+  0% 33/zygote: 0% user + 0% kernel / faults: 19 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 82 minor
+ +0% 497/com.android.browser: 0% user + 0% kernel
+34% TOTAL: 18% user + 12% kernel + 3.7% iowait + 0% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 188776 Realtime: 188776
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4887     5129      N/A    10016
+            free:      140     3198      N/A     3338
+           (Pss):     1989     2694     8500    13183
+  (shared dirty):     1348     1852     4924     8124
+    (priv dirty):     1864      672     6252     8788
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        3    AssetManagers:        3
+   Local Binders:       63    Proxy Binders:       86
+Death Recipients:       30
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 199
+---- CPU INFO -----
+Load: 1.39 / 1.45 / 0.62
+CPU usage from 37474ms to 13735ms ago:
+  12% 62/system_server: 8.6% user + 4.3% kernel / faults: 2048 minor 4 major
+  4.8% 121/com.android.launcher: 3.2% user + 1.6% kernel / faults: 2035 minor 3 major
+  0.3% 42/adbd: 0% user + 0.2% kernel / faults: 72 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 201 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 115 minor 4 major
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 136 minor
+  0% 4/events/0: 0% user + 0% kernel
+  0% 12/pdflush: 0% user + 0% kernel
+  0% 13/kswapd0: 0% user + 0% kernel
+  0% 33/zygote: 0% user + 0% kernel / faults: 19 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 82 minor
+ +0% 497/com.android.browser: 0% user + 0% kernel
+34% TOTAL: 18% user + 12% kernel + 3.7% iowait + 0% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 199561 Realtime: 199561
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4301     4643      N/A     8944
+            free:      726     3684      N/A     4410
+           (Pss):     1433     2699     8230    12362
+  (shared dirty):     1348     1852     4924     8124
+    (priv dirty):     1308      672     5964     7944
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        3    AssetManagers:        3
+   Local Binders:       63    Proxy Binders:       85
+Death Recipients:       30
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 210
+---- CPU INFO -----
+Load: 1.39 / 1.45 / 0.62
+CPU usage from 48422ms to 24683ms ago:
+  12% 62/system_server: 8.6% user + 4.3% kernel / faults: 2048 minor 4 major
+  4.8% 121/com.android.launcher: 3.2% user + 1.6% kernel / faults: 2035 minor 3 major
+  0.3% 42/adbd: 0% user + 0.2% kernel / faults: 72 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 201 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 115 minor 4 major
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 136 minor
+  0% 4/events/0: 0% user + 0% kernel
+  0% 12/pdflush: 0% user + 0% kernel
+  0% 13/kswapd0: 0% user + 0% kernel
+  0% 33/zygote: 0% user + 0% kernel / faults: 19 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 82 minor
+ +0% 497/com.android.browser: 0% user + 0% kernel
+34% TOTAL: 18% user + 12% kernel + 3.7% iowait + 0% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 210519 Realtime: 210519
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4338     4991      N/A     9329
+            free:      689     3336      N/A     4025
+           (Pss):     1529     2716     8217    12462
+  (shared dirty):     1348     1852     4924     8124
+    (priv dirty):     1404      672     5996     8072
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        4    AssetManagers:        4
+   Local Binders:       63    Proxy Binders:       90
+Death Recipients:       29
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 221
+---- CPU INFO -----
+Load: 1.14 / 1.38 / 0.62
+CPU usage from 35412ms to 6503ms ago:
+  12% 62/system_server: 8.1% user + 4.4% kernel / faults: 1157 minor 3 major
+  8.3% 497/com.android.browser: 6.5% user + 1.7% kernel / faults: 550 minor 11 major
+  3.5% 121/com.android.launcher: 2.1% user + 1.4% kernel / faults: 2044 minor 1 major
+  0.2% 42/adbd: 0% user + 0.1% kernel / faults: 107 minor
+  0.1% 4/events/0: 0% user + 0.1% kernel
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 103 minor
+  0.1% 344/com.android.phone: 0% user + 0.1% kernel / faults: 157 minor 3 major
+  0% 28/servicemanager: 0% user + 0% kernel / faults: 5 minor
+  0% 32/rild: 0% user + 0% kernel / faults: 37 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 77 minor
+27% TOTAL: 17% user + 9.5% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 221231 Realtime: 221231
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4328     4448      N/A     8776
+            free:      699     3879      N/A     4578
+           (Pss):     1445     2714     8163    12322
+  (shared dirty):     1348     1852     4924     8124
+    (priv dirty):     1320      672     5948     7940
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        4    AssetManagers:        4
+   Local Binders:       63    Proxy Binders:       82
+Death Recipients:       29
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 232
+---- CPU INFO -----
+Load: 1.21 / 1.37 / 0.63
+CPU usage from 9715ms to 4085ms ago:
+  20% 62/system_server: 14% user + 6% kernel / faults: 1175 minor
+  4.6% 121/com.android.launcher: 3.9% user + 0.7% kernel / faults: 128 minor
+  0.5% 118/com.android.systemui: 0.5% user + 0% kernel / faults: 163 minor
+  0% 33/zygote: 0% user + 0% kernel / faults: 129 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 110 minor
+  0% 4/events/0: 0% user + 0% kernel
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 74 minor
+ +0% 548/com.android.settings: 0% user + 0% kernel
+62% TOTAL: 37% user + 17% kernel + 7.6% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 231804 Realtime: 231804
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4575     4840      N/A     9415
+            free:      452     3487      N/A     3939
+           (Pss):     1709     2636     8321    12666
+  (shared dirty):     1348     1852     4924     8124
+    (priv dirty):     1584      672     5996     8252
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        5    AssetManagers:        5
+   Local Binders:       66    Proxy Binders:       88
+Death Recipients:       31
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 242
+---- CPU INFO -----
+Load: 1.02 / 1.33 / 0.62
+CPU usage from 14875ms to 4345ms ago:
+  18% 548/com.android.settings: 9.4% user + 9.4% kernel / faults: 1832 minor 28 major
+  15% 62/system_server: 9% user + 6.6% kernel / faults: 905 minor 1 major
+  0% 26/mmcqd: 0% user + 0% kernel
+  0.1% 42/adbd: 0% user + 0.1% kernel / faults: 36 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 17 minor
+  0% 118/com.android.systemui: 0% user + 0% kernel / faults: 64 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 61 minor
+43% TOTAL: 18% user + 19% kernel + 4.7% iowait + 0.2% irq + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 242583 Realtime: 242583
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4639     4591      N/A     9230
+            free:      388     3736      N/A     4124
+           (Pss):     1710     2163     8099    11972
+  (shared dirty):     1348     1852     4932     8132
+    (priv dirty):     1572      676     5940     8188
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        5    AssetManagers:        5
+   Local Binders:       68    Proxy Binders:       92
+Death Recipients:       32
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 253
+---- CPU INFO -----
+Load: 1.1 / 1.34 / 0.63
+CPU usage from 14919ms to 8419ms ago:
+  25% 62/system_server: 20% user + 5% kernel / faults: 2063 minor 41 major
+  23% 548/com.android.settings: 12% user + 10% kernel / faults: 3695 minor 79 major
+  0.7% 121/com.android.launcher: 0.2% user + 0.5% kernel / faults: 861 minor 7 major
+  0% 36/installd: 0% user + 0% kernel / faults: 32 minor 1 major
+  0.6% 42/adbd: 0.1% user + 0.4% kernel / faults: 35 minor
+  0.4% 118/com.android.systemui: 0% user + 0.4% kernel / faults: 471 minor 1 major
+  0.1% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 300 minor 1 major
+  0% 4/events/0: 0% user + 0% kernel
+  0.1% 26/mmcqd: 0% user + 0.1% kernel
+75% TOTAL: 35% user + 22% kernel + 17% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 253154 Realtime: 253154
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4645     4895      N/A     9540
+            free:      382     3432      N/A     3814
+           (Pss):     1738     2232     8149    12119
+  (shared dirty):     1348     1852     4932     8132
+    (priv dirty):     1600      676     5960     8236
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        5    AssetManagers:        5
+   Local Binders:       68    Proxy Binders:       92
+Death Recipients:       32
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 264
+---- CPU INFO -----
+Load: 1.1 / 1.34 / 0.63
+CPU usage from 25734ms to 19234ms ago:
+  25% 62/system_server: 20% user + 5% kernel / faults: 2063 minor 41 major
+  23% 548/com.android.settings: 12% user + 10% kernel / faults: 3695 minor 79 major
+  0.7% 121/com.android.launcher: 0.2% user + 0.5% kernel / faults: 861 minor 7 major
+  0% 36/installd: 0% user + 0% kernel / faults: 32 minor 1 major
+  0.6% 42/adbd: 0.1% user + 0.4% kernel / faults: 35 minor
+  0.4% 118/com.android.systemui: 0% user + 0.4% kernel / faults: 471 minor 1 major
+  0.1% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 300 minor 1 major
+  0% 4/events/0: 0% user + 0% kernel
+  0.1% 26/mmcqd: 0% user + 0.1% kernel
+75% TOTAL: 35% user + 22% kernel + 17% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 264009 Realtime: 264009
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4653     4535      N/A     9188
+            free:      374     3792      N/A     4166
+           (Pss):     1773     2340     7865    11978
+  (shared dirty):     1348     1852     4940     8140
+    (priv dirty):     1648      680     5952     8280
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        6    AssetManagers:        6
+   Local Binders:       71    Proxy Binders:       90
+Death Recipients:       37
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 274
+---- CPU INFO -----
+Load: 1.28 / 1.35 / 0.65
+CPU usage from 9955ms to 4785ms ago:
+  37% 62/system_server: 32% user + 5.2% kernel / faults: 387 minor 1 major
+  17% 121/com.android.launcher: 16% user + 0.9% kernel / faults: 271 minor
+  0.5% 580/org.csrdu.apex.apps.locationuser: 0.3% user + 0.1% kernel / faults: 44 minor
+55% TOTAL: 48% user + 6.5% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 275203 Realtime: 275203
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4752     4924      N/A     9676
+            free:      275     3403      N/A     3678
+           (Pss):     1876     2380     8320    12576
+  (shared dirty):     1348     1852     4932     8132
+    (priv dirty):     1752      680     6580     9012
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        7    AssetManagers:        7
+   Local Binders:       70    Proxy Binders:      112
+Death Recipients:       34
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 287
+---- CPU INFO -----
+Load: 1.21 / 1.33 / 0.66
+CPU usage from 9902ms to 4658ms ago:
+  23% 62/system_server: 13% user + 9.9% kernel / faults: 628 minor 5 major
+  13% 612/android.process.acore: 8% user + 5.5% kernel / faults: 1422 minor 9 major
+  5.9% 596/com.android.mms: 0.7% user + 5.1% kernel / faults: 230 minor
+  0.5% 118/com.android.systemui: 0.4% user + 0.1% kernel / faults: 624 minor 2 major
+  1.9% 121/com.android.launcher: 0.9% user + 0.9% kernel / faults: 539 minor
+  0% 13/kswapd0: 0% user + 0% kernel
+  0.1% 344/com.android.phone: 0.1% user + 0% kernel / faults: 84 minor 1 major
+54% TOTAL: 26% user + 22% kernel + 6.4% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 286754 Realtime: 286754
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4719     4673      N/A     9392
+            free:      308     3654      N/A     3962
+           (Pss):     1781     2402     8116    12299
+  (shared dirty):     1348     1852     4932     8132
+    (priv dirty):     1656      680     5972     8308
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        7    AssetManagers:        7
+   Local Binders:       70    Proxy Binders:      102
+Death Recipients:       32
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 297
+---- CPU INFO -----
+Load: 1.21 / 1.33 / 0.66
+CPU usage from 20835ms to 15591ms ago:
+  23% 62/system_server: 13% user + 9.9% kernel / faults: 628 minor 5 major
+  13% 612/android.process.acore: 8% user + 5.5% kernel / faults: 1422 minor 9 major
+  5.9% 596/com.android.mms: 0.7% user + 5.1% kernel / faults: 230 minor
+  0.5% 118/com.android.systemui: 0.4% user + 0.1% kernel / faults: 624 minor 2 major
+  1.9% 121/com.android.launcher: 0.9% user + 0.9% kernel / faults: 539 minor
+  0% 13/kswapd0: 0% user + 0% kernel
+  0.1% 344/com.android.phone: 0.1% user + 0% kernel / faults: 84 minor 1 major
+54% TOTAL: 26% user + 22% kernel + 6.4% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 297905 Realtime: 297905
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4779     4407      N/A     9186
+            free:      248     3920      N/A     4168
+           (Pss):     1841     2422     8345    12608
+  (shared dirty):     1348     1852     4928     8128
+    (priv dirty):     1716      680     6052     8448
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        8    AssetManagers:        8
+   Local Binders:       69    Proxy Binders:       89
+Death Recipients:       30
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 309
+---- CPU INFO -----
+Load: 1.34 / 1.35 / 0.68
+CPU usage from 10810ms to 1889ms ago:
+  24% 640/com.android.spare_parts: 21% user + 3.5% kernel / faults: 174 minor 2 major
+  24% 62/system_server: 16% user + 8.2% kernel / faults: 740 minor 8 major
+  3.7% 121/com.android.launcher: 0.7% user + 2.9% kernel / faults: 33 minor
+  2.5% 33/zygote: 2.3% user + 0.2% kernel / faults: 279 minor
+  0% 13/kswapd0: 0% user + 0% kernel
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 34 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 113 minor
+ +0% 658/com.android.settings: 0% user + 0% kernel
+72% TOTAL: 50% user + 20% kernel + 1.6% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 308928 Realtime: 308928
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4752     4833      N/A     9585
+            free:      275     3494      N/A     3769
+           (Pss):     1802     2394     8121    12317
+  (shared dirty):     1348     1852     4932     8132
+    (priv dirty):     1688      680     6004     8372
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        8    AssetManagers:        8
+   Local Binders:       72    Proxy Binders:       95
+Death Recipients:       33
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 319
+---- CPU INFO -----
+Load: 1.3 / 1.34 / 0.68
+CPU usage from 12630ms to 1451ms ago:
+  19% 62/system_server: 13% user + 5.5% kernel / faults: 491 minor
+  10% 121/com.android.launcher: 8.3% user + 1.6% kernel / faults: 1748 minor
+  2.7% 658/com.android.settings: 0.4% user + 2.3% kernel / faults: 72 minor
+  0.1% 42/adbd: 0% user + 0.1% kernel / faults: 48 minor
+  0.2% 118/com.android.systemui: 0% user + 0.1% kernel / faults: 32 minor
+  0% 4/events/0: 0% user + 0% kernel
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 3 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 62 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 49 minor
+35% TOTAL: 23% user + 11% kernel + 0.3% iowait + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 319637 Realtime: 319637
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4737     4465      N/A     9202
+            free:      290     3862      N/A     4152
+           (Pss):     1794     2393     8182    12369
+  (shared dirty):     1348     1852     4932     8132
+    (priv dirty):     1680      680     5984     8344
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        8    AssetManagers:        8
+   Local Binders:       72    Proxy Binders:       96
+Death Recipients:       33
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 330
+---- CPU INFO -----
+Load: 1.1 / 1.29 / 0.68
+CPU usage from 12182ms to 3633ms ago:
+  22% 62/system_server: 18% user + 3.8% kernel / faults: 462 minor
+  9% 121/com.android.launcher: 8.9% user + 0.1% kernel / faults: 74 minor
+  0.9% 42/adbd: 0.1% user + 0.8% kernel / faults: 36 minor
+  0.2% 4/events/0: 0% user + 0.2% kernel
+  0% 33/zygote: 0% user + 0% kernel / faults: 17 minor
+  0.1% 34/mediaserver: 0.1% user + 0% kernel / faults: 1 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 20 minor
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel / faults: 9 minor
+ +0% 680/com.android.calculator2: 0% user + 0% kernel
+47% TOTAL: 33% user + 12% kernel + 0.4% iowait + 0.1% irq + 0.1% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 330379 Realtime: 330379
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4788     4720      N/A     9508
+            free:      239     3607      N/A     3846
+           (Pss):     1878     2385     8202    12465
+  (shared dirty):     1348     1852     4936     8136
+    (priv dirty):     1764      680     6028     8472
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       75    Proxy Binders:      102
+Death Recipients:       35
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 341
+---- CPU INFO -----
+Load: 1.1 / 1.29 / 0.68
+CPU usage from 22738ms to 14189ms ago:
+  22% 62/system_server: 18% user + 3.8% kernel / faults: 462 minor
+  9% 121/com.android.launcher: 8.9% user + 0.1% kernel / faults: 74 minor
+  0.9% 42/adbd: 0.1% user + 0.8% kernel / faults: 36 minor
+  0.2% 4/events/0: 0% user + 0.2% kernel
+  0% 33/zygote: 0% user + 0% kernel / faults: 17 minor
+  0.1% 34/mediaserver: 0.1% user + 0% kernel / faults: 1 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 20 minor
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel / faults: 9 minor
+ +0% 680/com.android.calculator2: 0% user + 0% kernel
+47% TOTAL: 33% user + 12% kernel + 0.4% iowait + 0.1% irq + 0.1% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 341053 Realtime: 341053
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4760     4413      N/A     9173
+            free:      267     3914      N/A     4181
+           (Pss):     1878     2385     8218    12481
+  (shared dirty):     1348     1852     4936     8136
+    (priv dirty):     1764      680     6044     8488
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       75    Proxy Binders:       92
+Death Recipients:       35
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 351
+---- CPU INFO -----
+Load: 0.99 / 1.26 / 0.67
+CPU usage from 24884ms to 9543ms ago with 99% awake:
+  4.7% 62/system_server: 3.7% user + 0.9% kernel / faults: 241 minor
+  0.5% 42/adbd: 0% user + 0.4% kernel / faults: 71 minor
+  0.4% 118/com.android.systemui: 0.3% user + 0% kernel / faults: 371 minor 1 major
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 34 minor
+8.6% TOTAL: 5.2% user + 3.3% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 351627 Realtime: 351627
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4762     4726      N/A     9488
+            free:      265     3601      N/A     3866
+           (Pss):     1806     2413     8176    12395
+  (shared dirty):     1348     1852     4936     8136
+    (priv dirty):     1692      680     5988     8360
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       75    Proxy Binders:       92
+Death Recipients:       35
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 362
+---- CPU INFO -----
+Load: 0.99 / 1.26 / 0.67
+CPU usage from 35472ms to 20131ms ago with 99% awake:
+  4.7% 62/system_server: 3.7% user + 0.9% kernel / faults: 241 minor
+  0.5% 42/adbd: 0% user + 0.4% kernel / faults: 71 minor
+  0.4% 118/com.android.systemui: 0.3% user + 0% kernel / faults: 371 minor 1 major
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 34 minor
+8.6% TOTAL: 5.2% user + 3.3% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 362210 Realtime: 362210
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4765     4449      N/A     9214
+            free:      262     3878      N/A     4140
+           (Pss):     1838     2403     8281    12522
+  (shared dirty):     1348     1852     4940     8140
+    (priv dirty):     1724      680     6040     8444
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       75    Proxy Binders:       92
+Death Recipients:       35
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 373
+---- CPU INFO -----
+Load: 0.71 / 1.18 / 0.66
+CPU usage from 30743ms to 8203ms ago:
+  9.1% 62/system_server: 5.5% user + 3.6% kernel / faults: 400 minor 2 major
+  1.4% 680/com.android.calculator2: 1% user + 0.3% kernel / faults: 581 minor
+  0.3% 121/com.android.launcher: 0.1% user + 0.1% kernel / faults: 334 minor
+  0.4% 42/adbd: 0% user + 0.3% kernel / faults: 72 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 5 minor
+  0% 118/com.android.systemui: 0% user + 0% kernel / faults: 8 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel
+14% TOTAL: 8.2% user + 6.4% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 372831 Realtime: 372831
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4764     4870      N/A     9634
+            free:      263     3457      N/A     3720
+           (Pss):     1810     2403     8249    12462
+  (shared dirty):     1348     1852     4940     8140
+    (priv dirty):     1696      680     6008     8384
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       75    Proxy Binders:       92
+Death Recipients:       35
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 383
+---- CPU INFO -----
+Load: 0.71 / 1.18 / 0.66
+CPU usage from 41573ms to 19033ms ago:
+  9.1% 62/system_server: 5.5% user + 3.6% kernel / faults: 400 minor 2 major
+  1.4% 680/com.android.calculator2: 1% user + 0.3% kernel / faults: 581 minor
+  0.3% 121/com.android.launcher: 0.1% user + 0.1% kernel / faults: 334 minor
+  0.4% 42/adbd: 0% user + 0.3% kernel / faults: 72 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 5 minor
+  0% 118/com.android.systemui: 0% user + 0% kernel / faults: 8 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel
+14% TOTAL: 8.2% user + 6.4% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 383726 Realtime: 383726
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4784     4489      N/A     9273
+            free:      243     3838      N/A     4081
+           (Pss):     1881     2357     8341    12579
+  (shared dirty):     1348     1852     4940     8140
+    (priv dirty):     1776      680     6588     9044
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       76    Proxy Binders:       94
+Death Recipients:       36
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 394
+---- CPU INFO -----
+Load: 1.08 / 1.21 / 0.68
+CPU usage from 30103ms to 7294ms ago:
+  12% 62/system_server: 7.4% user + 5.3% kernel / faults: 1139 minor 1 major
+  0.9% 680/com.android.calculator2: 0% user + 0.9% kernel
+  0.2% 121/com.android.launcher: 0.1% user + 0.1% kernel / faults: 427 minor 2 major
+  0.1% 42/adbd: 0% user + 0.1% kernel / faults: 72 minor
+  0.1% 118/com.android.systemui: 0% user + 0% kernel / faults: 138 minor
+  0% 28/servicemanager: 0% user + 0% kernel / faults: 8 minor 1 major
+  0% 33/zygote: 0% user + 0% kernel / faults: 27 minor
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 46 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 46 minor
+  0% 13/kswapd0: 0% user + 0% kernel
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 1 minor
+ +0% 724/com.android.browser: 0% user + 0% kernel
+29% TOTAL: 16% user + 12% kernel + 0.8% iowait + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 394740 Realtime: 394740
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4789     4918      N/A     9707
+            free:      238     3409      N/A     3647
+           (Pss):     1914     2558     8945    13417
+  (shared dirty):     1348     1852     4928     8128
+    (priv dirty):     1776      680     6012     8468
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       72    Proxy Binders:      109
+Death Recipients:       32
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 405
+---- CPU INFO -----
+Load: 1.27 / 1.25 / 0.7
+CPU usage from 9625ms to 3495ms ago:
+  64% 724/com.android.browser: 61% user + 2.7% kernel / faults: 883 minor 13 major
+  21% 62/system_server: 13% user + 8.3% kernel / faults: 57 minor
+  12% 121/com.android.launcher: 11% user + 1.6% kernel / faults: 1155 minor
+  0.6% 118/com.android.systemui: 0.3% user + 0.3% kernel / faults: 275 minor
+  0.1% 42/adbd: 0% user + 0.1% kernel
+100% TOTAL: 85% user + 13% kernel + 0.8% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 405726 Realtime: 405726
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4754     4503      N/A     9257
+            free:      273     3824      N/A     4097
+           (Pss):     1849     2474     9054    13377
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1696      680     6004     8380
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:        9    AssetManagers:        9
+   Local Binders:       70    Proxy Binders:       86
+Death Recipients:       29
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 417
+---- CPU INFO -----
+Load: 1.63 / 1.34 / 0.74
+CPU usage from 6476ms to 1404ms ago:
+  51% 62/system_server: 47% user + 3.8% kernel / faults: 779 minor
+  24% 34/mediaserver: 23% user + 0.9% kernel / faults: 200 minor
+  13% 767/com.android.camera: 5.7% user + 7.3% kernel / faults: 807 minor 1 major
+  1% 386/android.process.media: 0.6% user + 0.4% kernel / faults: 29 minor
+91% TOTAL: 78% user + 13% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 418063 Realtime: 418063
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4742     4518      N/A     9260
+            free:      285     3809      N/A     4094
+           (Pss):     1873     2627     9316    13816
+  (shared dirty):     1348     1852     4920     8120
+    (priv dirty):     1720      680     6032     8432
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       10    AssetManagers:       10
+   Local Binders:       72    Proxy Binders:       86
+Death Recipients:       28
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 429
+---- CPU INFO -----
+Load: 1.45 / 1.31 / 0.74
+CPU usage from 6726ms to 976ms ago:
+  15% 799/com.android.settings: 9.5% user + 6.2% kernel / faults: 1087 minor 8 major
+  13% 62/system_server: 4% user + 9.2% kernel / faults: 283 minor
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 4 minor
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel
+29% TOTAL: 14% user + 15% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 428754 Realtime: 428754
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4761     4480      N/A     9241
+            free:      266     3847      N/A     4113
+           (Pss):     1862     2501     8829    13192
+  (shared dirty):     1348     1852     4924     8124
+    (priv dirty):     1724      680     5972     8376
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       10    AssetManagers:       10
+   Local Binders:       75    Proxy Binders:       86
+Death Recipients:       32
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 439
+---- CPU INFO -----
+Load: 1.37 / 1.3 / 0.74
+CPU usage from 11486ms to 2254ms ago:
+  21% 799/com.android.settings: 17% user + 3.7% kernel / faults: 775 minor 2 major
+  14% 62/system_server: 11% user + 2.3% kernel / faults: 364 minor
+  3.4% 118/com.android.systemui: 0.7% user + 2.7% kernel / faults: 221 minor 4 major
+  0.2% 42/adbd: 0% user + 0.2% kernel / faults: 36 minor
+43% TOTAL: 30% user + 10% kernel + 2.1% iowait + 0.1% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 439276 Realtime: 439276
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4770     4644      N/A     9414
+            free:      257     3683      N/A     3940
+           (Pss):     1926     2484     8843    13253
+  (shared dirty):     1348     1852     4928     8128
+    (priv dirty):     1788      680     5992     8460
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       10    AssetManagers:       10
+   Local Binders:       76    Proxy Binders:       87
+Death Recipients:       33
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      156         MEMORY_USED:      156
+ PAGECACHE_OVERFLOW:       24         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             61  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 450
+---- CPU INFO -----
+Load: 1.26 / 1.27 / 0.73
+CPU usage from 12858ms to 5040ms ago:
+  22% 62/system_server: 18% user + 4% kernel / faults: 739 minor 4 major
+  4.2% 121/com.android.launcher: 3.5% user + 0.7% kernel / faults: 1638 minor
+  1.5% 344/com.android.phone: 0.3% user + 1.1% kernel / faults: 471 minor
+  0.8% 799/com.android.settings: 0.7% user + 0.1% kernel / faults: 123 minor
+  0.7% 42/adbd: 0% user + 0.7% kernel / faults: 36 minor
+  0.3% 118/com.android.systemui: 0.2% user + 0.1% kernel / faults: 105 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 77 minor
+43% TOTAL: 31% user + 11% kernel + 0.2% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 449943 Realtime: 449943
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4577     4410      N/A     8987
+            free:      450     3917      N/A     4367
+           (Pss):     1929     2595     8919    13443
+  (shared dirty):     1344     1852     4928     8124
+    (priv dirty):     1792      680     6036     8508
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       10    AssetManagers:       10
+   Local Binders:       76    Proxy Binders:       86
+Death Recipients:       33
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 460
+---- CPU INFO -----
+Load: 1.36 / 1.29 / 0.75
+CPU usage from 15847ms to 1515ms ago:
+  23% 62/system_server: 16% user + 6.2% kernel / faults: 1245 minor 4 major
+  14% 121/com.android.launcher: 12% user + 2% kernel / faults: 199 minor
+  2.5% 438/com.android.inputmethod.latin: 0.6% user + 1.9% kernel / faults: 376 minor
+  0.4% 118/com.android.systemui: 0.3% user + 0.1% kernel / faults: 572 minor
+  0.2% 42/adbd: 0% user + 0.2% kernel / faults: 36 minor
+  0.2% 344/com.android.phone: 0.1% user + 0% kernel / faults: 204 minor 2 major
+  0% 33/zygote: 0% user + 0% kernel / faults: 83 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 91 minor
+ +0% 830/android.process.acore: 0% user + 0% kernel
+66% TOTAL: 44% user + 18% kernel + 4.2% iowait + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 460777 Realtime: 460777
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4686     4835      N/A     9521
+            free:      341     3492      N/A     3833
+           (Pss):     1957     2416     8064    12437
+  (shared dirty):     1344     1852     4936     8132
+    (priv dirty):     1832      680     5992     8504
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       11    AssetManagers:       11
+   Local Binders:       68    Proxy Binders:      104
+Death Recipients:       40
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 471
+---- CPU INFO -----
+Load: 1.13 / 1.25 / 0.74
+CPU usage from 6254ms to 294ms ago:
+  17% 62/system_server: 15% user + 2.3% kernel / faults: 511 minor 1 major
+  13% 121/com.android.launcher: 7.2% user + 6% kernel / faults: 1293 minor 2 major
+  5.5% 830/android.process.acore: 1.3% user + 4.1% kernel / faults: 133 minor 1 major
+  0.3% 34/mediaserver: 0% user + 0.3% kernel / faults: 37 minor
+  0.1% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 120 minor
+  0.1% 118/com.android.systemui: 0% user + 0.1% kernel / faults: 67 minor
+38% TOTAL: 24% user + 13% kernel + 1.3% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 471734 Realtime: 471734
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4700     4422      N/A     9122
+            free:      327     3905      N/A     4232
+           (Pss):     1957     2425     8410    12792
+  (shared dirty):     1344     1852     4936     8132
+    (priv dirty):     1832      680     6160     8672
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       11    AssetManagers:       11
+   Local Binders:       68    Proxy Binders:      102
+Death Recipients:       57
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 483
+---- CPU INFO -----
+Load: 1.13 / 1.25 / 0.74
+CPU usage from 18225ms to 12265ms ago:
+  17% 62/system_server: 15% user + 2.3% kernel / faults: 511 minor 1 major
+  13% 121/com.android.launcher: 7.2% user + 6% kernel / faults: 1293 minor 2 major
+  5.5% 830/android.process.acore: 1.3% user + 4.1% kernel / faults: 133 minor 1 major
+  0.3% 34/mediaserver: 0% user + 0.3% kernel / faults: 37 minor
+  0.1% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 120 minor
+  0.1% 118/com.android.systemui: 0% user + 0.1% kernel / faults: 67 minor
+38% TOTAL: 24% user + 13% kernel + 1.3% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 483866 Realtime: 483866
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4762     4855      N/A     9617
+            free:      265     3472      N/A     3737
+           (Pss):     1976     2434     9009    13419
+  (shared dirty):     1344     1852     4932     8128
+    (priv dirty):     1852      680     6616     9148
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      103
+Death Recipients:       53
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 495
+---- CPU INFO -----
+Load: 0.95 / 1.2 / 0.73
+CPU usage from 23855ms to 8285ms ago:
+  21% 62/system_server: 15% user + 5.8% kernel / faults: 1429 minor 5 major
+  5.6% 121/com.android.launcher: 5.4% user + 0.1% kernel / faults: 278 minor
+  0.4% 386/android.process.media: 0.1% user + 0.3% kernel / faults: 455 minor 6 major
+  0.4% 416/com.android.providers.calendar: 0% user + 0.3% kernel / faults: 670 minor 2 major
+  0.3% 42/adbd: 0% user + 0.3% kernel / faults: 72 minor
+  0.1% 34/mediaserver: 0% user + 0% kernel / faults: 5 minor
+  0.1% 118/com.android.systemui: 0% user + 0% kernel / faults: 44 minor
+  0% 12/pdflush: 0% user + 0% kernel
+  0% 13/kswapd0: 0% user + 0% kernel
+  0% 32/rild: 0% user + 0% kernel / faults: 87 minor
+  0% 33/zygote: 0% user + 0% kernel / faults: 126 minor
+  0% 36/installd: 0% user + 0% kernel / faults: 35 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 20 minor
+ +0% 896/com.android.development: 0% user + 0% kernel
+48% TOTAL: 30% user + 17% kernel + 0.1% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 495051 Realtime: 495051
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4764     4552      N/A     9316
+            free:      263     3775      N/A     4038
+           (Pss):     1916     2402     8324    12642
+  (shared dirty):     1344     1852     4940     8136
+    (priv dirty):     1792      680     6028     8500
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       68    Proxy Binders:      103
+Death Recipients:       56
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 505
+---- CPU INFO -----
+Load: 1.11 / 1.23 / 0.74
+CPU usage from 18887ms to 8577ms ago:
+  11% 62/system_server: 6.3% user + 5.1% kernel / faults: 351 minor
+  6.4% 896/com.android.development: 5.2% user + 1.1% kernel / faults: 731 minor
+  0.4% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+20% TOTAL: 12% user + 8% kernel + 0% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 505631 Realtime: 505631
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4766     4860      N/A     9626
+            free:      261     3467      N/A     3728
+           (Pss):     1936     2402     8344    12682
+  (shared dirty):     1344     1852     4940     8136
+    (priv dirty):     1812      680     6048     8540
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       68    Proxy Binders:      103
+Death Recipients:       56
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 516
+---- CPU INFO -----
+Load: 1.11 / 1.23 / 0.74
+CPU usage from 29597ms to 19287ms ago:
+  11% 62/system_server: 6.3% user + 5.1% kernel / faults: 351 minor
+  6.4% 896/com.android.development: 5.2% user + 1.1% kernel / faults: 731 minor
+  0.4% 42/adbd: 0% user + 0.3% kernel / faults: 36 minor
+20% TOTAL: 12% user + 8% kernel + 0% irq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 516497 Realtime: 516497
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4762     4524      N/A     9286
+            free:      265     3803      N/A     4068
+           (Pss):     1916     2402     8906    13224
+  (shared dirty):     1344     1852     4944     8140
+    (priv dirty):     1792      680     6020     8492
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       68    Proxy Binders:      103
+Death Recipients:       55
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 527
+---- CPU INFO -----
+Load: 1.14 / 1.22 / 0.75
+CPU usage from 30384ms to 6005ms ago:
+  11% 62/system_server: 8% user + 3.9% kernel / faults: 710 minor
+  10% 896/com.android.development: 8.7% user + 2% kernel / faults: 870 minor 7 major
+  0.2% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 412 minor 1 major
+  0.2% 42/adbd: 0% user + 0.2% kernel / faults: 72 minor
+  0% 4/events/0: 0% user + 0% kernel
+25% TOTAL: 17% user + 7.4% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 527440 Realtime: 527440
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4771     4857      N/A     9628
+            free:      256     3470      N/A     3726
+           (Pss):     1937     2398     8088    12423
+  (shared dirty):     1344     1852     4940     8136
+    (priv dirty):     1812      680     6044     8536
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       70    Proxy Binders:      108
+Death Recipients:       56
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 538
+---- CPU INFO -----
+Load: 1.05 / 1.2 / 0.75
+CPU usage from 9757ms to 3445ms ago:
+  41% 62/system_server: 28% user + 13% kernel / faults: 1563 minor 10 major
+  0.2% 121/com.android.launcher: 0% user + 0.1% kernel / faults: 304 minor
+  0.6% 438/com.android.inputmethod.latin: 0.6% user + 0% kernel / faults: 101 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 12 minor
+56% TOTAL: 38% user + 17% kernel + 0.7% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 538181 Realtime: 538181
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     5017     4578      N/A     9595
+            free:      166     3749      N/A     3915
+           (Pss):     1981     2691     8688    13360
+  (shared dirty):     1344     1852     4888     8084
+    (priv dirty):     1844      688     6232     8764
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      106
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 548
+---- CPU INFO -----
+Load: 1.05 / 1.2 / 0.75
+CPU usage from 20271ms to 13959ms ago:
+  41% 62/system_server: 28% user + 13% kernel / faults: 1563 minor 10 major
+  0.2% 121/com.android.launcher: 0% user + 0.1% kernel / faults: 304 minor
+  0.6% 438/com.android.inputmethod.latin: 0.6% user + 0% kernel / faults: 101 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 12 minor
+56% TOTAL: 38% user + 17% kernel + 0.7% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 548698 Realtime: 548698
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     5019     4660      N/A     9679
+            free:      164     3667      N/A     3831
+           (Pss):     1981     2691     8708    13380
+  (shared dirty):     1344     1852     4888     8084
+    (priv dirty):     1844      688     6252     8784
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      106
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 559
+---- CPU INFO -----
+Load: 1.05 / 1.2 / 0.75
+CPU usage from 30804ms to 24492ms ago:
+  41% 62/system_server: 28% user + 13% kernel / faults: 1563 minor 10 major
+  0.2% 121/com.android.launcher: 0% user + 0.1% kernel / faults: 304 minor
+  0.6% 438/com.android.inputmethod.latin: 0.6% user + 0% kernel / faults: 101 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 12 minor
+56% TOTAL: 38% user + 17% kernel + 0.7% iowait
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 559228 Realtime: 559229
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     5042     4866      N/A     9908
+            free:      141     3461      N/A     3602
+           (Pss):     1981     2669     8546    13196
+  (shared dirty):     1344     1852     4888     8084
+    (priv dirty):     1844      688     6308     8840
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      111
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 570
+---- CPU INFO -----
+Load: 0.63 / 1.08 / 0.72
+CPU usage from 10539ms to 4887ms ago:
+  15% 62/system_server: 11% user + 3.8% kernel / faults: 210 minor
+  7.5% 830/android.process.acore: 2.4% user + 5.1% kernel / faults: 357 minor
+  1.5% 121/com.android.launcher: 1% user + 0.5% kernel / faults: 171 minor
+  0% 34/mediaserver: 0% user + 0% kernel / faults: 18 minor
+  0.3% 42/adbd: 0.1% user + 0.1% kernel / faults: 24 minor
+  0.3% 438/com.android.inputmethod.latin: 0.1% user + 0.1% kernel / faults: 2 minor
+  0% 4/events/0: 0% user + 0% kernel
+  0.1% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 1 minor
+  0.1% 344/com.android.phone: 0% user + 0.1% kernel / faults: 3 minor
+28% TOTAL: 17% user + 11% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 569820 Realtime: 569820
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     5054     5068      N/A    10122
+            free:      129     3259      N/A     3388
+           (Pss):     1981     2678     8997    13656
+  (shared dirty):     1344     1852     4888     8084
+    (priv dirty):     1844      688     6500     9032
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      124
+Death Recipients:       56
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 581
+---- CPU INFO -----
+Load: 0.58 / 1.06 / 0.72
+CPU usage from 15880ms to 10203ms ago:
+  21% 830/android.process.acore: 17% user + 3.6% kernel / faults: 320 minor 5 major
+  18% 62/system_server: 14% user + 4% kernel / faults: 218 minor 1 major
+  2.2% 121/com.android.launcher: 1.5% user + 0.7% kernel / faults: 122 minor
+  0.8% 34/mediaserver: 0.1% user + 0.7% kernel / faults: 8 minor
+  0.5% 42/adbd: 0% user + 0.5% kernel / faults: 35 minor
+  0.1% 344/com.android.phone: 0% user + 0.1% kernel / faults: 38 minor 5 major
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel / faults: 4 minor
+ +0% 976/sh: 0% user + 0% kernel
+ +0% 977/dumpsys: 0% user + 0% kernel
+47% TOTAL: 35% user + 12% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 580798 Realtime: 580798
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     5000     4805      N/A     9805
+            free:      183     3522      N/A     3705
+           (Pss):     1957     2678     8740    13375
+  (shared dirty):     1344     1852     4888     8084
+    (priv dirty):     1820      688     6244     8752
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      106
+Death Recipients:       59
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 591
+---- CPU INFO -----
+Load: 0.45 / 1.01 / 0.71
+CPU usage from 20802ms to 9311ms ago with 99% awake:
+  8.1% 62/system_server: 4% user + 4.1% kernel / faults: 38 minor
+  3.3% 830/android.process.acore: 2.9% user + 0.3% kernel / faults: 199 minor
+  2% 121/com.android.launcher: 0% user + 1.9% kernel / faults: 1 minor
+  0.2% 118/com.android.systemui: 0.2% user + 0% kernel / faults: 48 minor
+  0.3% 42/adbd: 0.2% user + 0% kernel / faults: 37 minor
+  0.1% 34/mediaserver: 0% user + 0% kernel / faults: 4 minor
+  0% 32/rild: 0% user + 0% kernel / faults: 5 minor
+  0% 438/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 1 minor
+16% TOTAL: 8.6% user + 8% kernel
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 591399 Realtime: 591399
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     5002     5117      N/A    10119
+            free:      181     3210      N/A     3391
+           (Pss):     1981     2678     8824    13483
+  (shared dirty):     1344     1852     4888     8084
+    (priv dirty):     1844      688     6328     8860
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      106
+Death Recipients:       59
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 602
+---- CPU INFO -----
+Load: 0.43 / 0.98 / 0.7
+CPU usage from 20192ms to 1192ms ago:
+  8.7% 62/system_server: 5.5% user + 3.1% kernel / faults: 287 minor 2 major
+  0.8% 830/android.process.acore: 0.4% user + 0.4% kernel / faults: 19 minor
+  0.3% 121/com.android.launcher: 0.1% user + 0.1% kernel / faults: 152 minor
+  0.1% 34/mediaserver: 0% user + 0.1% kernel / faults: 5 minor
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel / faults: 5 minor
+  0.1% 42/adbd: 0% user + 0.1% kernel / faults: 36 minor
+  0% 118/com.android.systemui: 0% user + 0% kernel
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 8 minor
+11% TOTAL: 6.6% user + 4.9% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 602438 Realtime: 602438
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4997     4542      N/A     9539
+            free:      186     3785      N/A     3971
+           (Pss):     1961     2686     8756    13403
+  (shared dirty):     1344     1852     4884     8080
+    (priv dirty):     1824      688     6276     8788
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      102
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 613
+---- CPU INFO -----
+Load: 0.43 / 0.98 / 0.7
+CPU usage from 30942ms to 11942ms ago:
+  8.7% 62/system_server: 5.5% user + 3.1% kernel / faults: 287 minor 2 major
+  0.8% 830/android.process.acore: 0.4% user + 0.4% kernel / faults: 19 minor
+  0.3% 121/com.android.launcher: 0.1% user + 0.1% kernel / faults: 152 minor
+  0.1% 34/mediaserver: 0% user + 0.1% kernel / faults: 5 minor
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel / faults: 5 minor
+  0.1% 42/adbd: 0% user + 0.1% kernel / faults: 36 minor
+  0% 118/com.android.systemui: 0% user + 0% kernel
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 8 minor
+11% TOTAL: 6.6% user + 4.9% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 613022 Realtime: 613022
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4999     4869      N/A     9868
+            free:      184     3458      N/A     3642
+           (Pss):     1985     2684     8775    13444
+  (shared dirty):     1344     1852     4884     8080
+    (priv dirty):     1848      688     6296     8832
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:      103
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 623
+---- CPU INFO -----
+Load: 0.43 / 0.98 / 0.7
+CPU usage from 41503ms to 22503ms ago:
+  8.7% 62/system_server: 5.5% user + 3.1% kernel / faults: 287 minor 2 major
+  0.8% 830/android.process.acore: 0.4% user + 0.4% kernel / faults: 19 minor
+  0.3% 121/com.android.launcher: 0.1% user + 0.1% kernel / faults: 152 minor
+  0.1% 34/mediaserver: 0% user + 0.1% kernel / faults: 5 minor
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel / faults: 5 minor
+  0.1% 42/adbd: 0% user + 0.1% kernel / faults: 36 minor
+  0% 118/com.android.systemui: 0% user + 0% kernel
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 8 minor
+11% TOTAL: 6.6% user + 4.9% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 623715 Realtime: 623715
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4987     4467      N/A     9454
+            free:      196     3860      N/A     4056
+           (Pss):     1985     2684     8855    13524
+  (shared dirty):     1344     1852     4884     8080
+    (priv dirty):     1848      688     6376     8912
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:       95
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 634
+---- CPU INFO -----
+Load: 0.43 / 0.98 / 0.7
+CPU usage from 52212ms to 33212ms ago:
+  8.7% 62/system_server: 5.5% user + 3.1% kernel / faults: 287 minor 2 major
+  0.8% 830/android.process.acore: 0.4% user + 0.4% kernel / faults: 19 minor
+  0.3% 121/com.android.launcher: 0.1% user + 0.1% kernel / faults: 152 minor
+  0.1% 34/mediaserver: 0% user + 0.1% kernel / faults: 5 minor
+  0.1% 438/com.android.inputmethod.latin: 0.1% user + 0% kernel / faults: 5 minor
+  0.1% 42/adbd: 0% user + 0.1% kernel / faults: 36 minor
+  0% 118/com.android.systemui: 0% user + 0% kernel
+  0% 344/com.android.phone: 0% user + 0% kernel / faults: 8 minor
+11% TOTAL: 6.6% user + 4.9% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 634290 Realtime: 634290
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4989     4748      N/A     9737
+            free:      194     3579      N/A     3773
+           (Pss):     1953     2684     8755    13392
+  (shared dirty):     1344     1852     4884     8080
+    (priv dirty):     1816      688     6276     8780
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:       95
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+
+
+========================  NEW ENTRY ===================== 
+Time of measurement: 645
+---- CPU INFO -----
+Load: 0.24 / 0.85 / 0.67
+CPU usage from 43803ms to 2803ms ago:
+  7.1% 62/system_server: 5.3% user + 1.8% kernel / faults: 298 minor
+  3.4% 121/com.android.launcher: 2.9% user + 0.5% kernel / faults: 2837 minor 1 major
+  0.8% 830/android.process.acore: 0.1% user + 0.6% kernel / faults: 38 minor
+  0.5% 42/adbd: 0% user + 0.5% kernel / faults: 144 minor
+  0.2% 118/com.android.systemui: 0.1% user + 0% kernel / faults: 20 minor
+  0.1% 344/com.android.phone: 0% user + 0% kernel / faults: 38 minor
+  0% 4/events/0: 0% user + 0% kernel
+14% TOTAL: 9.2% user + 5% kernel + 0% softirq
+---- MEM INFO -----
+Applications Memory Usage (kB):
+Uptime: 644890 Realtime: 644890
+
+** MEMINFO in pid 62 [system] **
+                    native   dalvik    other    total
+            size:     6244     8327      N/A    14571
+       allocated:     4991     5049      N/A    10040
+            free:      192     3278      N/A     3470
+           (Pss):     1977     2684     8791    13452
+  (shared dirty):     1344     1852     4884     8080
+    (priv dirty):     1840      688     6312     8840
+ 
+ Objects
+           Views:        0        ViewRoots:        0
+     AppContexts:        2       Activities:        0
+          Assets:       12    AssetManagers:       12
+   Local Binders:       65    Proxy Binders:       95
+Death Recipients:       52
+ OpenSSL Sockets:        0
+ 
+ SQL
+               heap:      161         MEMORY_USED:      161
+ PAGECACHE_OVERFLOW:       27         MALLOC_SIZE:       50
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)  Dbname
+         1       24             69  settings.db
+         1       16             32  accounts.db
+---- BATTERY INFO -----
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  status: 2
+  health: 2
+  present: true
+  level: 50
+  scale: 100
+  voltage:0
+  temperature: 0
+  technology: Li-ion
+

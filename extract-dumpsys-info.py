@@ -6,7 +6,8 @@ target_process = 'system_server'
 seperator_string = 'NEW ENTRY' 
 
 stats_for = "CPU"; 
-stats_for = "MEM_ALLOCATED"; 
+if len(sys.argv) > 2 and sys.argv[2] == 'MEM': 
+    stats_for = "MEM_ALLOCATED"; 
 
 seaching_for_timestamp = True
 
@@ -34,7 +35,8 @@ for line in open(sys.argv[1], 'r'):
                 print ' '
                 seaching_for_timestamp = True
 	elif stats_for == "MEM_ALLOCATED": 
-	    m = re.match(r".*allocated:\ *[^\ ]*\ *[^\ ]*\ *[^\ ]*\ *(.*)", line)
+	    # m = re.match(r".*allocated:\ *[^\ ]*\ *[^\ ]*\ *[^\ ]*\ *(.*)", line)
+	    m = re.match(r".*free:\ *[^\ ]*\ *[^\ ]*\ *[^\ ]*\ *(.*)", line)
 	    if m: 
 	        print m.group(1) 
                 seaching_for_timestamp = True

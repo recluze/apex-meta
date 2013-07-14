@@ -1,8 +1,6 @@
 #!/bin/bash 
 # main log directory and files 
 LOG_DIR=~/mydroid.meta/ 
-CPUINFO_FILE=dumpsys-cpuinfo 
-MEMINFO_FILE=dumpsys-meminfo 
 LOG_FILE=dumpsys-combined-$1
 
 # Delay in seconds 
